@@ -1,6 +1,6 @@
-<h3 align="center">Backends > everything. 70% logic, 30% UI dreams</h1>
+<h3>Backends > everything. 70% logic, 30% UI dreams</h1>
 
-<h4 align="center">From servers to screens</h4>
+<h4>From servers to screens</h4>
 
 <!-- Core Languages -->
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript\&logoColor=black)
