@@ -1,1 +1,1 @@
-<h1 align="center">Backend Lover, and Frontend Enthusiast with a Server Obsession.</h1>
+<h1 align="center">Backends > everything. 90% logic, 10% UI dreams</h1>
