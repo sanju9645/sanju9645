@@ -1,8 +1,8 @@
 <h3>Backends > everything. 70% logic, 30% UI dreams</h1>
 
-<h4>From servers to screens</h4>
+<h4>From servers to screens:</h4>
 
-<!-- Core Languages -->
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript\&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript\&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php\&logoColor=white)
