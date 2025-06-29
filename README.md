@@ -1,7 +1,8 @@
-<h3>Backends > everything. &nbsp;&nbsp; 70% logic 🧠, 30% UI dreams ✨</h1>
+
+<h3>Backends > everything</h3>
+<p>(70% logic 🧠, 30% UI dreams ✨)</p>
 
 [🌐 Visit My Portfolio](https://sanju-portflio.onrender.com/)
-
 
 <h4>From servers to screens:</h4>
 
