@@ -1,4 +1,4 @@
-<h3 align="center">Backends > everything. 90% logic, 10% UI dreams</h1>
+<h3 align="center">Backends > everything. 70% logic, 30% UI dreams</h1>
 
 <h4 align="center">From servers to screens</h4>
 
