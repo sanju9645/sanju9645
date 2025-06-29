@@ -1,5 +1,5 @@
 
-<h3>Backends > everything</h3>
+<h2>Backends > everything</h2>
 <p>(70% logic 🧠, 30% UI dreams ✨)</p>
 
 [🌐 Visit My Portfolio](https://sanju-portflio.onrender.com/)
