@@ -1,7 +1,10 @@
-<h3>Backends > everything. 70% logic, 30% UI dreams</h1>
+<h3>Backends > everything. &nbsp;&nbsp; 70% logic 🧠, 30% UI dreams ✨</h1>
+
+<p>
+  <a href="[https://sanju-portflio.onrender.com/](https://sanju-portflio.onrender.com/)" target="_blank"><strong>🌐 Visit My Portfolio</strong></a>
+</p>
 
 <h4>From servers to screens:</h4>
-
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript\&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript\&logoColor=white)
@@ -23,3 +26,7 @@
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3\&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css\&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap\&logoColor=white)
+
+
+📫 Reach me at: [sanju9645@gmail.com]  
+🌐 Portfolio: [[https://sanju-portflio.onrender.com/](https://sanju-portflio.onrender.com/)]
