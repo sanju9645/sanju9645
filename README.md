@@ -1,8 +1,7 @@
 <h3>Backends > everything. &nbsp;&nbsp; 70% logic 🧠, 30% UI dreams ✨</h1>
 
-<p>
-  <a href="[https://sanju-portflio.onrender.com/](https://sanju-portflio.onrender.com/)" target="_blank"><strong>🌐 Visit My Portfolio</strong></a>
-</p>
+[🌐 Visit My Portfolio](https://sanju-portflio.onrender.com/)
+
 
 <h4>From servers to screens:</h4>
 
@@ -29,4 +28,3 @@
 
 
 📫 Reach me at: [sanju9645@gmail.com]  
-🌐 Portfolio: [[https://sanju-portflio.onrender.com/](https://sanju-portflio.onrender.com/)]
