@@ -1,8 +1,6 @@
 
 <h2>Backends > everything</h2>
 
-[🌐 Visit My Portfolio](https://sanju-portflio.onrender.com/)
-
 <h4>From servers to screens:</h4>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript\&logoColor=black)
