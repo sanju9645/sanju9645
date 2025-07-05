@@ -25,4 +25,4 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap\&logoColor=white)
 
 
-📫 Reach me at: [sanju9645@gmail.com]  
+📫 Reach me at: [github@sanjusnath.dev]  
