@@ -22,8 +22,6 @@
 
 <br>
 
-## 📧 Contact
+### 📧 Contact
 
 ✉️ **Email:** `github@sanjusnath.dev`
-
----
