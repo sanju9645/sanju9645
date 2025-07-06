@@ -2,7 +2,9 @@
 
 > **Ideas → Executables | Problem Solver**
 
-## 🚀 From servers to screens 🖥️
+<br>
+
+### 🚀 From servers to screens 🖥️
 
 #### 🐍 Languages ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
 
@@ -17,6 +19,8 @@
 #### 🐍️ Databases ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 
 #### 🎨 Frontend ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+
+<br>
 
 ## 📧 Contact
 
